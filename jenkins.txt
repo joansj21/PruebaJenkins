@@ -16,3 +16,4 @@ sudo service jenkins start
 
 https://www.youtube.com/watch?v=djRfFf9QeEs&ab_channel=OracleLearning
 https://www.youtube.com/watch?v=oJsIib4FVt8&ab_channel=FreddyLara
+nota en la parte de git se pone main
