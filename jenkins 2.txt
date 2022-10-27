@@ -1,0 +1,25 @@
+configurar las sub redes
+
+https://www.youtube.com/watch?v=FK1pvBDEZ4o&ab_channel=LinuxHelp
+sudo yum install java-11-openjdk-devel -y
+
+sudo yum install jenkins* -y
+
+sudo systemctl enable jenkins
+
+systemctl status jenkins
+
+sudo firewall-cmd --add-port=8080/tcp --permanent
+
+sudo firewall-cmd --reload
+sudo firewall-cmd --list-all
+
+despues ip maquina virtual
+
+http://ipmaquina:8080/
+http://152.70.158.169:8080/
+
+
+
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
